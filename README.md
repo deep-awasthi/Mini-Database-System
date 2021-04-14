@@ -4,7 +4,7 @@
  
  ## Flutter App for Live with Ombre Internship Round 2 assessment
  ## [To see the code](https://github.com/mad-skull/Ombre)
- ## [APK](Ombre/build/app/outputs/flutter-apk/)
+ ## [APK](https://github.com/mad-skull/Ombre/tree/main/build/app/outputs/flutter-apk)
 
 ## Getting Started
 
