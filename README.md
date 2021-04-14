@@ -8,7 +8,7 @@
  
  ## 2) [APK](https://github.com/mad-skull/Ombre/tree/main/build/app/outputs/flutter-apk) <br>
  
- ## 3) [Screenshots](https://github.com/mad-skull/Ombre/tree/main/Screenshots) <br>
+ ## 3) [Screenshots](https://github.com/mad-skull/Ombre/blob/main/Screenshots/Screenshots.md) <br>
  
  ## 4) [Video](https://github.com/mad-skull/Ombre/blob/main/Video.webm) <br>
        https://drive.google.com/file/d/19407TDyrZPFyrOQ8xj9EX9f_6_YXbRn2/view?usp=sharing
