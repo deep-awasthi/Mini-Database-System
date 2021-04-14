@@ -6,7 +6,15 @@
  ## [To see the code](https://github.com/mad-skull/Ombre)
  ## [APK](https://github.com/mad-skull/Ombre/tree/main/build/app/outputs/flutter-apk)
 
-## Getting Started
+
+
+
+
+
+
+
+
+## Getting Started with Flutter
 
 This project is a starting point for a Flutter application.
 
