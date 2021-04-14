@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\awast\\Downloads\\Ombre Search\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ro\\values-ro.xml",
+            "outputFile": "C:\\Users\\awast\\Desktop\\Ombre\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ro\\values-ro.xml",
             "map": [
                 {
                     "source": "C:\\Users\\awast\\.gradle\\caches\\transforms-2\\files-2.1\\0026e0111cc0bf6385e51ac20710661b\\jetified-play-services-basement-17.0.0\\res\\values-ro\\values.xml",
