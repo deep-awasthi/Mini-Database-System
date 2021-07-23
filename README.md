@@ -1,4 +1,4 @@
-# B+ Tree
+# Database System
 Implementing B+ tree using C++
 - [x] Search 
 - [X] Insert
